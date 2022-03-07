@@ -21,13 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.saucedemo.com/')
 
-WebUI.setText(findTestObject('Object Repository/saucedemo/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac'), 
+WebUI.setText(findTestObject('Object Repository/saucedemo/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac'), 
     'standard_user')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/saucedemo/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/saucedemo/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9'), 
     'qcu24s4901FyWDTwXGr6XA==')
 
-WebUI.click(findTestObject('Object Repository/saucedemo/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71'))
+WebUI.click(findTestObject('Object Repository/saucedemo/Page_Swag Labs/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71'))
 
 WebUI.closeBrowser()
 

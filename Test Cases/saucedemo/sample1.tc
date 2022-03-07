@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>saucedemo</name>
+   <name>sample1</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>7cdb38a0-d847-4aaa-9404-fe092537c96e</testCaseGuid>
+   <testCaseGuid>21826ae7-74e0-4e03-9371-ade175282280</testCaseGuid>
 </TestCaseEntity>
